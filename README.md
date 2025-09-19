@@ -4,7 +4,7 @@ Welcome! Everything is a HUGE work in progress, but eventually this will be a st
 
 # How to run
 
-You can either use this application running on streamlit at [INSERT WEBSITE], or install it locally.
+You can either use this application running on Streamlit at [INSERT WEBSITE], or install it locally.
 
 First, clone the repository:
 ``` {bash}
